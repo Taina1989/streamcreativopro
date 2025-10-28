@@ -39,7 +39,7 @@ function App() {
 
               <div className="flex flex-wrap gap-4">
                 <a
-                  href="#https://wa.me/51912688670?text=Hola,%20quiero%20información%20sobre%20sus%20servicios"
+                  href="https://wa.me/51912688670?text=Hola,%20quiero%20información%20sobre%20sus%20servicios"
                   className="px-8 py-4 bg-blue-600 hover:bg-blue-700 rounded-lg font-semibold text-lg transition-all transform hover:scale-105 shadow-lg shadow-blue-500/30"
                 >
                   Comenzar ahora
@@ -415,7 +415,7 @@ function App() {
                 </li>
               </ul>
 
-              <a href="#https://wa.me/51912688670?text=Hola,%20quiero%20información%20sobre%20el%20plan%20premium" className="block w-full py-3 bg-white hover:bg-slate-100 text-blue-600 text-center rounded-lg font-semibold transition-colors">
+              <a href="https://wa.me/51912688670?text=Hola,%20quiero%20información%20sobre%20el%20plan%20premium" className="block w-full py-3 bg-white hover:bg-slate-100 text-blue-600 text-center rounded-lg font-semibold transition-colors">
                 Comenzar ahora
               </a>
             </div>
