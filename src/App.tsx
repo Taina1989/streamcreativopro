@@ -54,7 +54,7 @@ function App() {
 
               <div className="flex items-center gap-8 pt-4">
                 <div>
-                  <div className="text-3xl font-bold">500+</div>
+                  <div className="text-3xl font-bold">200+</div>
                   <div className="text-sm text-slate-400">Clientes activos</div>
                 </div>
                 <div className="w-px h-12 bg-slate-700"></div>
@@ -462,7 +462,7 @@ function App() {
             ¿Listo para llevar tu marca al siguiente nivel?
           </h2>
           <p className="text-xl text-blue-100 mb-10">
-            Únete a más de 500 revendedores que ya están aumentando sus ventas con nosotros
+            Únete a más de 200 revendedores que ya están aumentando sus ventas con nosotros
           </p>
 
           <a
